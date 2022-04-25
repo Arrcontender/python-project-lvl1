@@ -10,7 +10,6 @@ def game_question():
     y = random.randint(1, 10)
     z = random.choice('+-*')
 
-
     def math_problem(a, b, c):
         if c == '+':
             q = str(a) + ' + ' + str(b)
@@ -22,7 +21,6 @@ def game_question():
             q = str(a) + ' * ' + str(b)
             return q
 
-
     def math_result(a, b, c):
         if c == '+':
             v = a + b
@@ -33,8 +31,6 @@ def game_question():
         else:
             v = a * b
             return v
-
-
     problem = (math_problem(x, y, z))
     result = str(math_result(x, y, z))
 
