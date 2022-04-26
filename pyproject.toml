@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "five_maths_games"
 authors = ["Arrcontender"]
 packages = [
   { include = "brain_games" },
 ]
+repository = "https://github.com/Arrcontender/python-project-lvl1"
 
 [tool.poetry.dependencies]
 python = "^3.10"
