@@ -12,7 +12,10 @@ def run_game(game):
     rounds_to_win = 3
     while number_of_round < rounds_to_win:
         problem, result = game.game_question()
-        print(f'Question: {problem}')
+        if type(problem) == tuple:
+            print(f'Question: {problem[0]} {problem[1]}')
+        else:
+            print(f'Question: {problem}')
         answer = prompt.string('Your answer: ')
         if answer.lower() == result:
             print('Correct!')
