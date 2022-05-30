@@ -4,6 +4,7 @@ import random
 
 START = 'What number is missing in the progression?'
 
+
 def game_question():
     pr_ssn_start = random.randint(0, 100)
     pr_ssn_len = random.randint(5, 10)
