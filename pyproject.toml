@@ -1,14 +1,19 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "1.0.0"
-description = ""
+version = "1.1.0"
+description = "hexlet school project named \"Brain games\""
 authors = ["Arrcontender"]
 packages = [
   { include = "brain_games" },
 ]
+classifiers = [
+	"Programming Language :: Python",
+	"Topic :: Education :: Testing"
+]
+repository = "https://github.com/Arrcontender/python-project-lvl1"
 
 [tool.poetry.dependencies]
-python = "3.10.2"
+python = "^3.8"
 prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
