@@ -7,13 +7,13 @@
 # BRAIN GAMES (Training Project)
 ### This project features five math games. In every game the principle is the same: the player must give the correct answer in three rounds in a row to win. If the player gives an incorrect answer in any of the three rounds, a defeat is assigned and the game ends. Next on the list are attached videos of the implementation of these mathematical games:
 
-### brain-even 
+"brain-even":
 [![asciicast](https://asciinema.org/a/489154.svg)](https://asciinema.org/a/489154)
-### brain-calc
+"brain-calc":
 [![asciicast](https://asciinema.org/a/489334.svg)](https://asciinema.org/a/489334)
-### brain-gcd 
+"brain-gcd":
 [![asciicast](https://asciinema.org/a/rTBchh0ioDHjZOazpp35vxmxP.svg)](https://asciinema.org/a/rTBchh0ioDHjZOazpp35vxmxP)
-### brain-progression 
+"brain-progression":
 [![asciicast](https://asciinema.org/a/489993.svg)](https://asciinema.org/a/489993)
-### brain-prime
+"brain-prime":
 [![asciicast](https://asciinema.org/a/490017.svg)](https://asciinema.org/a/490017)
