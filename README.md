@@ -1,11 +1,11 @@
 ### Hexlet tests and linter status:
 [![hexlet-check](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/hexlet-check.yml)
-<a href="https://codeclimate.com/github/Arrcontender/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/77a4af4f94520fbd3150/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/a04d30ab485cc43e4456/maintainability)](https://codeclimate.com/github/Arrcontender/python-project-lvl1/maintainability)
 [![linter-check](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/linter-check.yml/badge.svg)](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/linter-check.yml)
 
 
-# BRAIN GAMES
-### В этом проекте представлены пять математических игр. В каждой игре принцип одинаков: игрок должен дать правильный ответ в трех раундах подряд для победы. В случае, если игрок даст неверный ответ в любом из трёх раундов, - присваивается поражение и игра завершается. Далее по списку прикреплены видео реализации данных математических игр:
+# BRAIN GAMES (Training Project)
+### This project features five math games. In every game the principle is the same: the player must give the correct answer in three rounds in a row to win. If the player gives an incorrect answer in any of the three rounds, a defeat is assigned and the game ends. Next on the list are attached videos of the implementation of these mathematical games:
 
 ### brain-even 
 [![asciicast](https://asciinema.org/a/489154.svg)](https://asciinema.org/a/489154)
