@@ -4,25 +4,29 @@
 [![linter-check](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/linter-check.yml/badge.svg)](https://github.com/Arrcontender/python-project-lvl1/actions/workflows/linter-check.yml)
 
 
-# BRAIN GAMES (Training Project)
-### This project features five math games. In every game the principle is the same: the player must give the correct answer in three rounds in a row to win. If the player gives an incorrect answer in any of the three rounds, a defeat is assigned and the game ends. Next on the list are attached videos of the implementation of these mathematical games:
+# Training project "Brain Games"
 
-"brain-even":
+---
+This is an application implemented as part of the first project while studying the profession of Python developer on [Hexlet](https://ru.hexlet.io)
+
+This project features five math games. In every game the principle is the same: the player must give the correct answer in three rounds in a row to win. If the player gives an incorrect answer in any of the three rounds, a defeat is assigned and the game ends. Next on the list are attached videos of the implementation of these mathematical games:
+
+* "brain-even":
 
 [![asciicast](https://asciinema.org/a/489154.svg)](https://asciinema.org/a/489154)
 
-"brain-calc":
+* "brain-calc":
 
 [![asciicast](https://asciinema.org/a/489334.svg)](https://asciinema.org/a/489334)
 
-"brain-gcd":
+* "brain-gcd":
 
 [![asciicast](https://asciinema.org/a/rTBchh0ioDHjZOazpp35vxmxP.svg)](https://asciinema.org/a/rTBchh0ioDHjZOazpp35vxmxP)
 
-"brain-progression":
+* "brain-progression":
 
 [![asciicast](https://asciinema.org/a/489993.svg)](https://asciinema.org/a/489993)
 
-"brain-prime":
+* "brain-prime":
 
 [![asciicast](https://asciinema.org/a/490017.svg)](https://asciinema.org/a/490017)
